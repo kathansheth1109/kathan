@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>My first Page</title>
+		<link rel="icon" href="logo.png" >
+	</head>
+	
+	<body>
+	
+		<h1>hi i am head tag</h1>
+		
+	</body>
+	
+</html>

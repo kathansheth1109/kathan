@@ -1,0 +1,17 @@
+<!Doctype html>
+<html lang="en">
+<head>
+	<title> profile settings </title>
+</head>
+<body>
+<div style="color:white;background-color:black">
+</div>
+<div class
+<button type="button"class="btn">Basic</button>
+
+	<tr>
+	<th>First name </th>
+	<th>Last name </th>
+	</tr>
+</body>
+</html>
